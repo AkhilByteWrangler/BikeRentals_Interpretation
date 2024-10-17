@@ -74,6 +74,6 @@ This project provides a series of visualizations to interpret the model's behavi
 
 To run this project, click on this button:
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIPI-590-XAI/Duke-AI-XAI/blob/dev/templates/template.ipynb)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AkhilByteWrangler/BikeRentals_Interpretation/blob/main/bike_rentals_interpretability.ipynb)
    
 
